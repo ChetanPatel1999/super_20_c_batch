@@ -3,7 +3,7 @@ void main()
 {
 	int a,b,c;
 	a=12;
-	b=25;
+	b=5;
 	c=a+b;
 	printf("value of a = %d\n",a);
 	printf("value of b = %d\n",b);
