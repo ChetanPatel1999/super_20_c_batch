@@ -8,8 +8,8 @@ void main()
     printf("enter value of b = ");
     scanf("%d",&b);
 	printf("before swapping :\n");
-	printf("a = %d\n",a); //12
-	printf("b = %d\n",b); //5
+	printf("a = %d\n",a);
+	printf("b = %d\n",b);
 	
 	//logic of swapping
     c= a;
@@ -17,7 +17,7 @@ void main()
     b= c;
 	
 	printf("after swapping :\n");
-	printf("a = %d\n",a);// 5
-	printf("b = %d\n",b);// 12
+	printf("a = %d\n",a);
+	printf("b = %d\n",b);
 	 
 }
