@@ -26,6 +26,6 @@ void main()
     }
     else
     {
-        printf("tringle side is not valid for mmaking tringle ");
+        printf("tringle side is not valid for making tringle ");
     }
 }
